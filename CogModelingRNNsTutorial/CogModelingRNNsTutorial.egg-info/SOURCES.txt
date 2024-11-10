@@ -1,0 +1,7 @@
+setup.cfg
+setup.py
+CogModelingRNNsTutorial.egg-info/PKG-INFO
+CogModelingRNNsTutorial.egg-info/SOURCES.txt
+CogModelingRNNsTutorial.egg-info/dependency_links.txt
+CogModelingRNNsTutorial.egg-info/requires.txt
+CogModelingRNNsTutorial.egg-info/top_level.txt
